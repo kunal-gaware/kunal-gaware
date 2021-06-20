@@ -2,7 +2,6 @@
 #### I am Student and Devloper
 I am a Computer Science Student and i like to work with Python, JS and Arduino
 
-Skills: Python / JS / HTML / CSS
 
 - 🌱 I’m currently learning C++ 
 
